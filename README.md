@@ -1,4 +1,4 @@
-# Resume Maker With Student Database System with Unit Testing
+# Resume Maker and Student Database System with Unit Testing
 A small desktop application that generates Resumes in the form of PDFs and stores the student data.
 This project is a prototype for an advanced student information management and resume generation system and is restricted within the college premises. This project is useful for students as well as college staff members.
 # Product Functions
