@@ -9,8 +9,8 @@ This project is a prototype for an advanced student information management and r
 •	Admin Login to permanently delete record of a student.   
 •	A Reset function to clear data without permanently deleting.   
 
-FRONT END - Java AWT and Swing.  
-BACK END - SQLite
+Front End - Java AWT and Swing.  
+Back End - SQLite
 
 # Libraries: 
 1.	sqlitejdbc-v056.  
